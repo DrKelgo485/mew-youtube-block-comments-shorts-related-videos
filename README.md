@@ -15,7 +15,7 @@ This tool is perfect for YouTube users who prefer a minimalist, distraction-free
 
 
 
-any bugs or errors contact [![Gmail](https://img.shields.io/badge/Email-eickjames21%40gmail.com-red?logo=gmail&logoColor=white)](mailto:eickjames21@gmail.com)
+bugs or errors contact [![Gmail](https://img.shields.io/badge/Email-eickjames21%40gmail.com-red?logo=gmail&logoColor=white)](mailto:eickjames21@gmail.com)
 
 # Contributing
 Thank you for your interest in contributing to Mewitsu!
