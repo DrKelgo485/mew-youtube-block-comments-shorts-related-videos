@@ -11,3 +11,8 @@ This repository provides a solution to enhance YouTube browsing by allowing user
 This tool is perfect for YouTube users who prefer a minimalist, distraction-free experience while exploring videos.
 
 ![hEwNnGj54A0R4lJdIPyQ9uZTW_voHlRNZRGumCK-dJa0VQ5iif](https://github.com/user-attachments/assets/dd5a572b-9c12-4861-a522-fd6f2d47f627)
+
+
+
+
+if experiencing any bugs email me [![Gmail](https://img.shields.io/badge/Email-eickjames21%40gmail.com-red?logo=gmail&logoColor=white)](mailto:eickjames21@gmail.com)
