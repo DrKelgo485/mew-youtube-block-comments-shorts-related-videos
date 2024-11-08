@@ -16,6 +16,7 @@ This tool is perfect for YouTube users who prefer a minimalist, distraction-free
 
 
 Supported Browsers
+
 Chrome
 
 Firefox
